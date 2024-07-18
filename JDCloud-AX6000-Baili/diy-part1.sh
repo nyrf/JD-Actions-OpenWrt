@@ -20,7 +20,7 @@
 # git clone https://github.com/sirpdboy/luci-app-lucky.git package/lucky
    git clone  https://github.com/gdy666/luci-app-lucky.git package/lucky
 
-git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
+git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
 # sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
 # sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
 
